@@ -1,100 +1,57 @@
+# Paul Muiruri 🚀  
+**Full Stack Developer | Mobile App Engineer | Cloud Solutions Architect**  
+*Building Scalable Solutions for the Modern Web*
 
-<h1 align="center">👨💻 Paul Muiruri | Full-Stack Developer</h1>
-<p align="center">
-  <a href="https://studyhubke.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio">
-  </a>
-  <a href="mailto:muiruripaul3492@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/paul-muiruri-34b734338/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://x.com/Plumace1">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/paul-muiruri-34b734338/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=flat-square)](http://studyhubke.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-critical?style=flat-square&logo=gmail)](mailto:muiruripaul3492@gmail.com)
 
----
+## 🛠 Technical Expertise
 
-## 🚀 Technical Profile
-
-**Full-Stack Developer** specializing in building scalable web/mobile solutions with modern architectures. Focused on delivering clean, efficient code and exceptional user experiences. Certified AWS Cloud Practitioner with hands-on experience in cloud-native development.
-
-**Core Competencies:**
-- 📱 Cross-platform Mobile Development (Android/React Native)
-- 🌐 Responsive Web Applications (React/Next.js)
-- ☁️ Cloud Infrastructure & Serverless Architecture
-- 🔄 CI/CD Pipeline Implementation
-- 🧠 AI Integration & Intelligent Systems
-
----
-
-## 💻 Technology Stack
-
-### **Frontend Development**
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-
-### **Backend & Cloud**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white)
+### **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-Expert-orange?logo=amazon-aws)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-Certified-blue?logo=google-cloud)
+![Docker](https://img.shields.io/badge/Docker-Containerization-blue?logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?logo=kubernetes)
 
 ### **Mobile Development**
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-Cross_Platform-blue?logo=react)
+![Expo](https://img.shields.io/badge/Expo-Mobile_Development-gray?logo=expo)
+![Firebase](https://img.shields.io/badge/Firebase-Backend_Services-yellow?logo=firebase)
 
----
+### **Web Technologies**
+![React](https://img.shields.io/badge/React-18-blue?logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-20-green?logo=node.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-Strongly_Typed-blue?logo=typescript)
+![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-green?logo=mongodb)
 
-## 🏆 Featured Project: StudyHub
+## 🏗 Current Projects
 
-**AI-Powered Learning Platform**  
-*Next-gen Academic Assistant for Modern Students*
-
-✅ **Key Features:**
-- AI-powered question scanning & contextual analysis
-- Offline-first architecture with local database sync
-- PDF annotation engine with markdown export
-- Cross-device synchronization via Firebase
-
-🛠️ **Technical Highlights:**
-- MVVM Architecture with Clean Code principles
-- TensorFlow Lite integration for on-device ML
-- Real-time collaboration using WebSockets
-- CI/CD Pipeline with GitHub Actions
-
-📥 **Get the App:**  
-[![Download APK](https://img.shields.io/badge/Download_APK-000000?style=for-the-badge&logo=android&logoColor=white)](https://studyhubke.vercel.app/)
-
----
+### [StudyHub Ecosystem](http://studyhubke.vercel.app/)
+**Featured Tech Stack:**  
+`React` `Next.js` `MongoDB Atlas` `AWS EC2` `Tailwind CSS`  
+An all-in-one educational platform serving 5,000+ active users with course management and real-time collaboration features.
 
 ## 📈 Development Activity
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pauloh349&show_icons=true&theme=dark&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pauloh349&theme=dark&hide_border=true" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Pauloh349&theme=dark)](https://git.io/streak-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pauloh349&layout=compact&theme=vision-friendly-dark)](https://github.com/Pauloh349)
 
----
+## 📚 Continuous Learning
+- Currently mastering **Microservices Architecture**
+- Exploring **AI Integration in Mobile Apps**
+- Recent Certification: **AWS Certified Solutions Architect**
+
+## 🌐 Global Perspective
+- Based in Nairobi, Kenya 🇰🇪
+- Experience working with international teams across 4 continents
+- Fluent in English & Swahili
 
 ## 🤝 Collaboration Opportunities
+Open to partnerships on:
+- Enterprise-scale web applications
+- Cross-platform mobile solutions
+- Cloud migration projects
+- Open source contributions
 
-- 🔍 Seeking technical co-founders for EdTech startup
-- 💼 Available for contract/freelance projects
-- � Open source contribution opportunities
-- 📣 Technical writing & tutorial creation
-
----
-
-## 💡 Development Philosophy
-
-> *"Clean code is not just efficient - it's a form of respect for the next developer. I build systems that are maintainable today and adaptable for tomorrow."*
-
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+[![Buy Me a Coffee](https://img.shields.io/badge/Support-%E2%98%95%20Buy%20Me%20a%20Coffee-yellow?logo=buymeacoffee)](https://www.buymeacoffee.com/studyhubke)
