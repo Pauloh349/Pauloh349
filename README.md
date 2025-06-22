@@ -69,7 +69,7 @@ An all-in-one educational platform empowering over 5,000 students with tools for
 
 ## 🌍 A Bit About Me
 
-- 🏠 Based in **Nairobi, Kenya 🇰🇪**
+- 🏠 Based in **Kiambu, Kenya 🇰🇪**
 - 🌐 Collaborated with global teams across **4 continents**
 - 🗣 Fluent in **English** and **Swahili**
 
