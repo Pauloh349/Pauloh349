@@ -54,7 +54,11 @@ An all-in-one educational platform empowering over 5,000 students with tools for
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Pauloh349&theme=dark" alt="GitHub Streak" />
   <br />
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pauloh349&layout=compact&theme=vision-friendly-dark&langs_count=10" alt="Top Languages" />
+</p>
+
 
 </p>
 
