@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/paul-muiruri-34b734338/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="http://studyhubke.vercel.app/">
+  <a href="http://paulspace.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge" />
   </a>
   <a href="mailto:muiruripaul3492@gmail.com">
