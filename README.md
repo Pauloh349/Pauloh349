@@ -45,7 +45,7 @@
 ### 🎓 [StudyHub Ecosystem](http://studyhubke.vercel.app/)
 An all-in-one educational platform empowering over 5,000 students with tools for course management, real-time collaboration, and content delivery.
 
-**Tech Stack:** `Next.js` · `React` · `MongoDB Atlas` · `Tailwind CSS` · `AWS EC2`
+**Tech Stack:**  `React Native` · `MongoDB Atlas` · `Firebase` · `NodeJS` . `Mpesa Daraja`
 
 ---
 
