@@ -21,10 +21,8 @@
 ## 🔧 Tech Toolbox
 
 ### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-Expert-orange?logo=amazon-aws)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-Certified-blue?logo=google-cloud)
 ![Docker](https://img.shields.io/badge/Docker-Containerization-blue?logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?logo=kubernetes)
 
 ### 📱 Mobile App Development
 ![React Native](https://img.shields.io/badge/React_Native-Cross_Platform-blue?logo=react)
@@ -42,8 +40,8 @@
 
 ## 🚀 Featured Project
 
-### 🎓 [StudyHub Ecosystem](http://studyhubke.vercel.app/)
-An all-in-one educational platform empowering over 5,000 students with tools for course management, real-time collaboration, and content delivery.
+### 🎓 [StudyHub Ecosystem](https://play.google.com/store/apps/details?id=com.eapp.elis&pcampaignid=web_share)
+An all-in-one educational platform empowering over 5,00 students with tools for course management, real-time collaboration, and content delivery.
 
 **Tech Stack:**  `React Native` · `MongoDB Atlas` · `Firebase` · `NodeJS` . `Mpesa Daraja`
 
@@ -74,8 +72,8 @@ An all-in-one educational platform empowering over 5,000 students with tools for
 
 ## 🌍 A Bit About Me
 
-- 🏠 Based in **Kiambu, Kenya 🇰🇪**
-- 🌐 Collaborated with global teams across **4 continents**
+- 🏠 Based in **Nakuru, Kenya 🇰🇪**
+- 🌐 Collaborated with global teams across **Upwork**
 - 🗣 Fluent in **English** and **Swahili**
 
 ---
