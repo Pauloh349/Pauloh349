@@ -31,9 +31,7 @@
 
 ### 🌐 Web Development
 ![React](https://img.shields.io/badge/React-Frontend-blue?logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-Fullstack-black?logo=next.js)
 ![Node.js](https://img.shields.io/badge/Node.js-Backend-green?logo=node.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-Strongly_Typed-blue?logo=typescript)
 ![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-green?logo=mongodb)
 
 ---
