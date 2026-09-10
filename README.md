@@ -38,7 +38,7 @@
 
 ## 🚀 Featured Project
 
-### 🎓 [StudyHub Ecosystem](https://play.google.com/store/apps/details?id=com.eapp.elis&pcampaignid=web_share)
+### 🎓 [StudyHub Ecosystem](https://github.com/Pauloh349/about-studyhub)
 An all-in-one educational platform empowering over 5,00 students with tools for course management, real-time collaboration, and content delivery.
 
 **Tech Stack:**  `React Native` · `MongoDB Atlas` · `Firebase` · `NodeJS` . `Mpesa Daraja`
