@@ -116,8 +116,6 @@ I enjoy working on projects involving the following during my internship and fre
 * AI integrations
 * Business automation
 
-I've also collaborated with teams and clients through platforms such as **Upwork**.
-
 ---
 
 ## Let's Build Something
