@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Paul Muiruri 👋</h1>
 
 <p align="center">
-  <strong>Full-Stack Developer · Mobile App Engineer · Cloud Solutions Architect</strong>
+  <strong>Full-Stack Developer · Mobile App Engineer · Cloud Solutions</strong>
 </p>
 
 <p align="center">
@@ -77,16 +77,6 @@ I enjoy working across the entire development lifecycle — from designing an id
 
 The ecosystem focuses on delivering educational content through a modern mobile experience while providing infrastructure for content management, user accounts, and payments.
 
-**Technology Stack**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,mongodb,firebase,nodejs,express" />
-</p>
-
-<p>
-  <strong>React Native</strong> · <strong>Node.js</strong> · <strong>MongoDB Atlas</strong> · <strong>Firebase</strong> · <strong>M-Pesa Daraja</strong> · <strong>Express</strong>
-</p>
-
 ---
 
 ### <a href="https://play.google.com/store/apps/details?id=com.tvethub" target="_blank">2. TVET Hub</a>
@@ -94,16 +84,6 @@ The ecosystem focuses on delivering educational content through a modern mobile 
 **TVET Hub** is an educational platform focused on organizing and providing access to **TVET curriculum resources, modules, units, and past papers**.
 
 The platform is designed around the **TVET CDACC curriculum**, making it easier for learners and educators to navigate technical and vocational education resources.
-
-**Technology Stack**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,firebase,nodejs,express" />
-</p>
-
-<p>
-  <strong>React Native</strong> · <strong>Firebase</strong> · <strong>Nodejs</strong> · <strong>Express</strong>
-</p>
 
 ---
 
