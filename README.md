@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.plumace.co.ke">
+  <a href="https://www.plumace.co.ke" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=flat-square&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/paul-muiruri-34b734338/">
+  <a href="https://www.linkedin.com/in/paul-muiruri-34b734338/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:pauloh@duck.com">
@@ -28,14 +28,14 @@ I'm a software developer focused on building **modern, scalable, and practical d
 
 I enjoy working across the entire development lifecycle — from designing an idea and building the frontend to developing APIs, managing databases, deploying applications, and improving system architecture.
 
-* 🇰🇪 Based in **Kenya**
-* 💻 Full-stack & mobile application development
-* 📱 Cross-platform mobile applications
-* 🔌 Backend API development
-* ☁️ Cloud infrastructure & deployment
-* 🏗️ Scalable backend architecture
-* 🤖 Practical AI integrations
-* 🌱 Continuous learning and improvement
+* Based in **Kenya**
+* Full-stack & mobile application development
+* Cross-platform mobile applications
+* Backend API development
+* Cloud infrastructure & deployment
+* Scalable backend architecture
+* Practical AI integrations
+* Continuous learning and improvement
 
 ---
 
@@ -54,19 +54,11 @@ I enjoy working across the entire development lifecycle — from designing an id
   <img src="https://cdn.simpleicons.org/expo/000020" width="48" height="48" alt="Expo" />
 </p>
 
-<p>
-  <strong>React Native</strong> · <strong>Expo</strong> · <strong>Next.js</strong> · <strong>React</strong> · <strong>Tailwind CSS</strong>
-</p>
-
 ### Backend & Databases
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,firebase" />
   <img src="https://cdn.simpleicons.org/fastify/000000" width="48" height="48" alt="Fastify" />
-</p>
-
-<p>
-  <strong>Node.js</strong> · <strong>Fastify</strong> · <strong>Express</strong> · <strong>PostgreSQL</strong> · <strong>MongoDB</strong> · <strong>Firebase</strong>
 </p>
 
 ### Cloud, DevOps & Tools
@@ -75,19 +67,11 @@ I enjoy working across the entire development lifecycle — from designing an id
   <img src="https://skillicons.dev/icons?i=gcp,docker,git,github,linux,vercel" />
 </p>
 
-<p>
-  <strong>Google Cloud</strong> · <strong>Docker</strong> · <strong>Git</strong> · <strong>GitHub</strong> · <strong>Linux</strong> · <strong>Vercel</strong>
-</p>
-
 ---
 
-## 🚀 Featured Project
+## Featured Projects
 
-### 🎓 StudyHub Ecosystem
-
-<a href="https://github.com/pauloh349/about-studyhub">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pauloh349&repo=about-studyhub&theme=transparent&hide_border=true" />
-</a>
+### <a href="https://github.com/Pauloh349/about-studyhub" target="_blank"> 1. StudyHub</a>
 
 **StudyHub** is an educational platform designed to make academic resources more accessible to students.
 
@@ -96,71 +80,67 @@ The ecosystem focuses on delivering educational content through a modern mobile 
 **Technology Stack**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,mongodb,firebase,nodejs" />
+  <img src="https://skillicons.dev/icons?i=react,mongodb,firebase,nodejs,express" />
 </p>
 
 <p>
-  <strong>React Native</strong> · <strong>Node.js</strong> · <strong>MongoDB Atlas</strong> · <strong>Firebase</strong> · <strong>M-Pesa Daraja</strong>
+  <strong>React Native</strong> · <strong>Node.js</strong> · <strong>MongoDB Atlas</strong> · <strong>Firebase</strong> · <strong>M-Pesa Daraja</strong> · <strong>Express</strong>
 </p>
 
 ---
 
-## 📊 GitHub Activity
+### <a href="https://play.google.com/store/apps/details?id=com.tvethub" target="_blank">2. TVET Hub</a>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=paulmuiruri&theme=transparent&hide_border=true"
-    alt="GitHub Streak"
-  />
+**TVET Hub** is an educational platform focused on organizing and providing access to **TVET curriculum resources, modules, units, and past papers**.
+
+The platform is designed around the **TVET CDACC curriculum**, making it easier for learners and educators to navigate technical and vocational education resources.
+
+**Technology Stack**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,firebase,nodejs,express" />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulmuiruri&layout=compact&theme=transparent&hide_border=true&langs_count=10"
-    alt="Top Languages"
-  />
+<p>
+  <strong>React Native</strong> · <strong>Firebase</strong> · <strong>Nodejs</strong> · <strong>Express</strong>
 </p>
 
 ---
 
-## 🧠 Currently Learning
+## Currently Learning
 
 I'm continuously expanding my backend and systems knowledge, with particular interest in:
 
-* 🏗️ **Microservices Architecture**
-* ⚡ **High-performance Node.js APIs**
-* 🔷 **TypeScript**
-* 🚀 **Fastify**
-* 🐘 **PostgreSQL**
-* ☁️ **Cloud Architecture**
-* 🤖 **AI-powered applications**
-* 🔐 **Application security & authentication**
-
-My approach is simple:
-
-> **Learn the fundamentals → build manually → document → debug → then use AI to accelerate.**
+* **Microservices Architecture**
+* **High-performance Node.js APIs**
+* **TypeScript**
+* **Fastify**
+* **PostgreSQL**
+* **Cloud Architecture**
+* **AI-powered applications**
+* **Application security & authentication**
 
 ---
 
-## 🌍 Experience & Interests
+## Experience & Interests
 
-I enjoy working on projects involving:
+I enjoy working on projects involving the following during my internship and freelance:
 
-* 🌐 Web applications
-* 📱 Mobile applications
-* 🔌 Backend APIs
-* ☁️ Cloud infrastructure
-* 🗄️ Database architecture
-* 💳 Payment integrations
-* 🎓 Education technology
-* 🤖 AI integrations
-* ⚙️ Business automation
+* Web applications
+* Mobile applications
+* Backend APIs
+* Cloud infrastructure
+* Database architecture
+* Payment integrations
+* Education technology
+* AI integrations
+* Business automation
 
 I've also collaborated with teams and clients through platforms such as **Upwork**.
 
 ---
 
-## 🤝 Let's Build Something
+## Let's Build Something
 
 I'm interested in collaborating on projects involving:
 
@@ -187,7 +167,7 @@ Projects that solve practical problems and help developers learn.
 </p>
 
 <p align="center">
-  <a href="https://www.plumace.co.ke">
+  <a href="https://www.plumace.co.ke" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-111827?style=for-the-badge" />
   </a>
 </p>
